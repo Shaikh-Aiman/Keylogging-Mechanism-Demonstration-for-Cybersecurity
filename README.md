@@ -88,11 +88,15 @@ This project uses **Mailtrap Sandbox API** to safely simulate email-based data e
 ## Steps to Generate an API Token
 
 1. Create a free account at `https://mailtrap.io` using any valid email address.
-2. Switch to **Email Testing / Sandbox**.
-3. Open any Inbox.
-4. Navigate to **API**.
-5. Generate a new **Sandbox API token**.
-6. Store the token securely and use it locally only. (do NOT commit it to GitHub)
+2. Switch to **Sandboxes** by navigating to https://mailtrap.io/inboxes.
+3. Open any Sandbox/Inbox.
+4. The **unique Inbox ID** can be seen in the browser URL.
+5. Navigate to **API**.
+6. Generate a new **Sandbox API token** by clicking **Create API Token**.
+    **NOTE:** The Sandbox API token can be generated only once.  
+              - Store the token securely after creation.  
+              - If the API token is lost, the sandbox must be deleted and a new sandbox should be created to generate a new token.
+8. Store the token securely and use it locally only. (do NOT commit it to GitHub)
 
 ## Configuration in Code:
 
