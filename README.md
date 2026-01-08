@@ -15,7 +15,7 @@ All operations are performed only after explicit user consent.
 - To simulate controlled data collection in a lab environment
 - To highlight the importance of user consent, transparency, and ethical boundaries in cybersecurity
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1caf6f47-5d48-4353-8759-7a29ec1a137b" alt="1">
+  <img src="https://github.com/user-attachments/assets/1caf6f47-5d48-4353-8759-7a29ec1a137b" alt="1" width="600">
 </p>
 
 
@@ -30,7 +30,7 @@ All operations are performed only after explicit user consent.
               - Single-frame webcam image.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/34458c7e-d0ca-4423-9f27-726130b302f6" alt="4">
+  <img src="https://github.com/user-attachments/assets/34458c7e-d0ca-4423-9f27-726130b302f6" alt="4" width="600">
 </p>
 
 
@@ -99,7 +99,7 @@ without sending real emails to external users.
 
 ## Mitigation Steps to Prevent Keylogger Vulnerabilities:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/233694ae-720a-4fea-9e4d-c5229b08b7dc" alt="2">
+  <img src="https://github.com/user-attachments/assets/233694ae-720a-4fea-9e4d-c5229b08b7dc" alt="2" width="600">
 </p>
 
 - Use updated antivirus and endpoint detection tools.
