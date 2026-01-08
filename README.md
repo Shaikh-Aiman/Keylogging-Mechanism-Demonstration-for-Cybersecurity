@@ -1,6 +1,6 @@
 # Keylogging-Mechanism-Demonstration-for-Cybersecurity
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/220bfeea-82c4-4643-b3ac-4d85d5241fcc" alt="abc" width="800">
+  <img src="https://github.com/user-attachments/assets/220bfeea-82c4-4643-b3ac-4d85d5241fcc" alt="abc" width="1000">
 </p>
 
 A keylogging mechanism is a technique used to record user input events such as keystrokes and peripheral interactions on an endpoint system.
@@ -99,7 +99,7 @@ without sending real emails to external users.
 
 ## Mitigation Steps to Prevent Keylogger Vulnerabilities:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/233694ae-720a-4fea-9e4d-c5229b08b7dc" alt="2" width="700">
+  <img src="https://github.com/user-attachments/assets/233694ae-720a-4fea-9e4d-c5229b08b7dc" alt="2" width="800">
 </p>
 
 - Use updated antivirus and endpoint detection tools.
