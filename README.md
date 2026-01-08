@@ -125,3 +125,8 @@ This project provides a practical and ethical demonstration of how keylogging me
 ### Note:
 
 Execution screenshots, outputs, and visual flow are documented separately in `Visual_Overview.md`.
+<p align="center">
+  <img width="560" height="370" alt="image" src="https://github.com/user-attachments/assets/3faa01f8-d233-4793-827a-d0227f568e20" />
+</p>
+
+
