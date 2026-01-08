@@ -1,4 +1,4 @@
-# Keylogging-Mechanism-Demonstration-for-Cybersecurity
+# Keylogging Mechanism Demonstration for Cybersecurity
 <p align="center">
   <img src="https://github.com/user-attachments/assets/220bfeea-82c4-4643-b3ac-4d85d5241fcc" alt="abc" width="1000">
 </p>
@@ -18,6 +18,22 @@ All operations are performed only after explicit user consent.
   <img src="https://github.com/user-attachments/assets/1caf6f47-5d48-4353-8759-7a29ec1a137b" alt="1" width="600">
 </p>
 
+### Installation:
+To run this project locally, follow these steps:
+
+- __Clone the repository:__ <br>
+
+
+         git clone https://github.com/Shaikh-Aiman/Keylogging-Mechanism-Demonstration-for-Cybersecurity
+
+- __Navigate to the project directory:__
+cd Keylogging-Mechanism-Demonstration-for-Cybersecurity
+- __Ensure you have Python installed on your system.__
+- __Install the required dependencies.__
+- __Run the application:__
+    `python main.py`
+
+---
 
 ## Working of the Project:
 
@@ -126,7 +142,7 @@ This project provides a practical and ethical demonstration of how keylogging me
 
 Execution screenshots, outputs, and visual flow are documented separately in `Visual_Overview.md`.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/086db8b0-08e7-4990-be53-43611d53b89e" alt="5" width="1100" height="400">
+  <img src="https://github.com/user-attachments/assets/086db8b0-08e7-4990-be53-43611d53b89e" alt="5" width="1000" height="400">
 </p>
 
 
