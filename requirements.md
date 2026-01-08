@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1ad4a276-ebbe-455a-ac77-7511d17266a8" alt="REQ IMG 1"
-       width="700">
+       width="500">
 </p>
 
 
@@ -31,6 +31,6 @@ __Ensure you have the following Python packages installed:__ <br>
 - __sys:__ Handles command-line arguments such as --help and --delete-logs.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14efa349-abff-49da-8c76-72f3bd15eb70" alt="b" width="1000">
+  <img src="https://github.com/user-attachments/assets/14efa349-abff-49da-8c76-72f3bd15eb70" alt="b" width="700">
 </p>
 
