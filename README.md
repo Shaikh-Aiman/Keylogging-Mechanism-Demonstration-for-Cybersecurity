@@ -10,10 +10,10 @@ All operations are performed only after explicit user consent.
 
 ## Project Objective:
 
-- To demonstrate how keylogging-style endpoint monitoring works at a technical level
-- To create awareness about endpoint security risks
-- To simulate controlled data collection in a lab environment
-- To highlight the importance of user consent, transparency, and ethical boundaries in cybersecurity
+- To demonstrate how keylogging-style endpoint monitoring works at a technical level.
+- To create awareness about endpoint security risks.
+- To simulate controlled data collection in a lab environment.
+- To highlight the importance of user consent, transparency, and ethical boundaries in cybersecurity.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1caf6f47-5d48-4353-8759-7a29ec1a137b" alt="1" width="600">
 </p>
@@ -43,7 +43,7 @@ cd Keylogging-Mechanism-Demonstration-for-Cybersecurity
               - Keyboard input
               - Mouse movement
               - Microphone audio (time-limited)
-              - Single-frame webcam image.
+              - Single-frame webcam image
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/34458c7e-d0ca-4423-9f27-726130b302f6" alt="4" width="600">
@@ -83,8 +83,7 @@ cd Keylogging-Mechanism-Demonstration-for-Cybersecurity
 
 ## Mailtrap API Token Setup
 
-This project uses **Mailtrap Sandbox API** to safely simulate email-based data exfiltration
-without sending real emails to external users.
+This project uses **Mailtrap Sandbox API** to safely simulate email-based data exfiltration without sending real emails to external users.
 
 ## Steps to Generate an API Token
 
